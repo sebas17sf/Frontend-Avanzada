@@ -66,7 +66,6 @@
             </div>
         </div>
 
-
         <div class="white-panel">
             <div class="login-show">
                 <h4 class="card-title text-center">VINCULACIÓN CON LA SOCIEDAD</h4>
