@@ -38,7 +38,6 @@
             <hr>
             <div class="sidebar-links">
 
-
                 <a href="{{ route('admin.index') }}" class="nav-link active">
                     <i class="material-icons">assignment</i> Aceptacion
                 </a>
@@ -134,7 +133,6 @@
                                     </tbody>
                                 </table>
                             </div>
-
 
                             <div class="text-muted">
                                 Total de datos: {{ count($usuarios) }}
